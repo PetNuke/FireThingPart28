@@ -1,0 +1,7 @@
+Incident Time: {0}
+Incident Type: {1}
+Incident Address: <a href={7}>{2}</a>
+Incident Cross Streets: {3}
+Incident Zip: {4}
+Vehicles Deployed: {5}
+Channel: {6}

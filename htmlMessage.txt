@@ -1,0 +1,11 @@
+<html>
+    <body>
+    <p>Incident Time: {0}</p>
+    <p>Incident Type: {1}</p>
+    <p>Incident Address: <a href={7}>{2}</a></p>
+    <p>Incident Cross Streets: {3}</p>
+    <p>Incident Zip: {4}</p>
+    <p>Vehicles Deployed: {5}</p>
+    <p>Channel: {6}</p>
+    </body>
+</html>
